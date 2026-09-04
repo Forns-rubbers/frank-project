@@ -8,3 +8,12 @@
 #git reset --hard <commitId> //bring to this version and delete the left of version
 #git reset --mix <commitId> //bring to this version and untracked(working directory)
 #git reset --soft <commitId> //bring to this version and unadd(staging area)
+#git brach // check brach
+#git checkout -b name // add branch
+#git brach -d name // delete branch
+#git remote //mange or remote and create new name of repo 
+#git branch name // bring to that branch
+#git merge name // mix branch
+#git push //push project to repo
+#git pull //
+#git clone // clone project
