@@ -15,5 +15,5 @@
 #git branch name // bring to that branch
 #git merge name // mix branch
 #git push //push project to repo
-#git pull //
+#git pull // bring lastest version on remote repo to update on local sever
 #git clone // clone project
